@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="180dp"
     android:background="#67000000"
-    tools:context="com.brandonjf.sliderexample.HudFragment"
     android:layout_alignParentBottom="true"
     android:gravity="bottom">
 

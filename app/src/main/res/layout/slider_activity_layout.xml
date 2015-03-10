@@ -7,11 +7,11 @@
        android:id="@+id/viewpager"
        android:layout_width="match_parent"
        android:layout_height="match_parent"/>
-    <fragment
-        android:name="com.brandonjf.sliderexample.HudFragment"
-        android:layout_alignParentBottom="true"
-        android:layout_width="match_parent"
-        android:layout_height="180dp"
-        tools:layout="@layout/hud_fragment_layout" />
+    <!--<fragment-->
+        <!--android:name="com.brandonjf.sliderexample.HudFragment"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="180dp"-->
+        <!--tools:layout="@layout/hud_fragment_layout" />-->
 
 </RelativeLayout>
